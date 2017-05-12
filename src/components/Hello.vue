@@ -1,5 +1,7 @@
 <template>
   <div class="hello">
+  
+   <a href="/#/">首页</a>  <a href="/#/home">列表页</a>  
     <h1>{{ msg }}</h1>
    
   </div>
